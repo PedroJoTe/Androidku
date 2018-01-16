@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weris</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="register">Register</string>
+    <string name="already_registered_nlogin_here">Already Registered? Login Here</string>
+</resources>
